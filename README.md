@@ -1,0 +1,3 @@
+# Exercism Solutions
+
+My solutions to [exercism.io](http://exercism.io/).
